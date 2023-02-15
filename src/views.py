@@ -4,7 +4,7 @@ from rest_framework.response import Response
 import json
 from .models import Account
 import requests
-# Create your views here.
+
 
 
 
